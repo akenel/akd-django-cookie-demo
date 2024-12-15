@@ -1,0 +1,1 @@
+# akd-django-cookie-demo
